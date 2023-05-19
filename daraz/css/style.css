@@ -1,0 +1,133 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.promo-banner{
+    background-color: #e2e2e2;
+}
+
+.navbar{
+    background-color: #ececec !important;
+    padding: 0;
+    padding-right: 55px;
+}
+
+.navbar ul li{
+    font-size: 12px;
+    padding: 0 17px;
+}
+
+.navbar ul li a.active-nav{
+    color: #f57224 !important;
+}
+
+.navbar ul li a:hover{
+    text-decoration: underline !important;
+    color: #f57224 !important;
+}
+
+.navbar ul li a{
+    color: black !important;
+}
+
+.search-bar{
+    background-color: #f5f5f5;
+    padding: 13px 19px;
+    border: none;
+    outline: none;
+    width: 45%;
+    margin-left: 20px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+}
+
+.search-cointainer{
+    background-color: #fff;
+}
+
+.search-cointainer button{
+    outline: none;
+    border: none;
+    color: #fff;
+    background-color: #f57224;
+    margin-left: -5px;
+    border-radius: 2px;
+    padding: 0 30px;
+}
+
+.cart-icon{
+    font-size:26px;
+    margin-top: 12px;
+    margin-left: 20px;
+}
+
+.special-offers-img{
+    width: 180px;
+    height: 45px;
+    margin-left: 50px;
+}
+
+.top-banner{
+    background-color: #f7f7f7;
+}
+
+.card-body:hover{
+    background-color: #f7f7f7 !important;
+}
+
+.card-title{
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.card-price{
+    color: #f57224;
+    font-size: 16px;
+}
+
+.card-text{
+    font-size: 12px;
+}
+
+.flashsale-container img,
+.barazmall-container img{
+    height: 200px;
+}
+
+footer{
+    background-color: #2E2E54;
+    padding: 20px 0;
+}
+
+footer a{
+    font-size: 12px;
+    color: #f7f7f7;
+}
+
+footer a:hover{
+    color: #f7f7f7;
+    text-decoration: underline !important;
+}
+
+.qr-code-img{
+    width: 120px;
+    border-radius: 10px;
+}
+
+.df-img{
+    width: 40px;
+}
+
+.app-download{
+    font-size: 14px;
+    margin-left: 140px;
+    margin-top: -40px;
+}
+
+span{
+    color: #f57224;
+}
+
+.app-store img{
+    width: 150px;
+}
